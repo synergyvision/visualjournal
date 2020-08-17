@@ -1,0 +1,2 @@
+# Visual Journal - Doc
+###### Documentación
