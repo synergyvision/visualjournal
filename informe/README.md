@@ -1,2 +1,2 @@
-# Visual Journal - Design
-###### Informe de pasantía
+# Visual Journal - Informe
+Informe de pasantía

@@ -1,2 +1,2 @@
 # Visual Journal - Doc
-###### Documentación
+Documentación correspondiente.
